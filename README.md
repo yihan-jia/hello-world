@@ -1,3 +1,3 @@
 # hello-world
 
-Hi this is Joe from Tsinghua University.
+Following the guide and create a new branch.
